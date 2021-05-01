@@ -1,0 +1,16 @@
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\Abstracao.exe
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\Abstracao.deps.json
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\Abstracao.runtimeconfig.json
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\Abstracao.runtimeconfig.dev.json
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\Abstracao.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\ref\Abstracao.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\bin\Debug\net5.0\Abstracao.pdb
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.csprojAssemblyReference.cache
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.AssemblyInfoInputs.cache
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.AssemblyInfo.cs
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\ref\Abstracao.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.pdb
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Abstracao\obj\Debug\net5.0\Abstracao.genruntimeconfig.cache
